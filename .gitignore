@@ -1,8 +1,0 @@
-env/
-env
-./env
-.env
-main/__pycache__/
-billapp/__pycache__*
-billapp/__init__.py
-main/migrations/
