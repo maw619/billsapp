@@ -1,4 +1,4 @@
-#!/root/BillsProject/env/bin/python3
+#!/Users/marcowolff/Desktop/DjangoProjects/billsapp/billsapp/env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
